@@ -4,4 +4,4 @@
 | Pinji | Pingi@tftns.onmicrosoft.com      | Rejected |         |            |
 
 
-https://github.com/anjisapadm/TestPublicRepo/blob/main/BIRIA/646d72f9840345b46506a867_62b4c044feb26d7f74c303db_PowerappsTheme.jpeg
+![PowerApps Theme](https://raw.githubusercontent.com/anjisapadm/TestPublicRepo/main/BIRIA/646d72f9840345b46506a867_62b4c044feb26d7f74c303db_PowerappsTheme.jpeg)
