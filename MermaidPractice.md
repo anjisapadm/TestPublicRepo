@@ -1,9 +1,4 @@
 ```mermaid
 flowchart TD
-    A[Start] --> B{Is it sunny?}
-    B -->|Yes| C[Go outside]
-    B -->|No| D[Stay inside]
-    C --> E[Enjoy the sun!]
-    D --> F[Find something fun to do indoors]
-    E --> G[End]
-    F --> G[End]
+    A[Question 1: Study Type] -->|Randomized Controlled Trial| B[Go to Question 3: Data collection was blinded]
+    A -->|Other study type or non-study data| C[Go to Question 2: Could being a participant affect behavior?]
